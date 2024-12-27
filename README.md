@@ -1,0 +1,1 @@
+An interactive quiz application that test your overall knowledge about AI topics.
